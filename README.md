@@ -1,0 +1,3 @@
+SpotifyRegionChecker 是一个强大的 Streamlit 应用，借助 Spotify API，帮助用户探索专辑的地区可用性、曲目详情和艺术家信息。 功能包括：输入专辑 URL 或搜索关键字、查看发行日期/流派/流行度、多语言支持（中文/英文）、可视化地区分布。 无论是音乐爱好者还是版权研究者，都能轻松掌握专辑的全球足迹！
+
+SpotifyRegionChecker is a robust Streamlit application leveraging the Spotify API to assist users in exploring album availability across regions, track details, and artist information. Its features encompass: inputting album URLs or search keywords, viewing release dates, genres, and popularity, offering multilingual support (Chinese/English), and visualizing regional distribution. Both music lovers and copyright researchers can effortlessly grasp the album's global reach!
