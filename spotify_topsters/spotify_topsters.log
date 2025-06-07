@@ -1,0 +1,11 @@
+2025-06-01 14:06:13,048 ERROR HTTP Error for GET to https://api.spotify.com/v1/me/top/artists with Params: {'time_range': 'long_term', 'limit': 100, 'offset': 0} returned 400 due to Invalid limit
+2025-06-01 14:07:44,699 ERROR HTTP Error for GET to https://api.spotify.com/v1/me/top/artists with Params: {'time_range': 'long_term', 'limit': 100, 'offset': 0} returned 400 due to Invalid limit
+2025-06-01 15:35:31,145 ERROR HTTP Error for GET to https://api.spotify.com/v1/me/top/artists with Params: {'time_range': 'long_term', 'limit': 100, 'offset': 0} returned 400 due to Invalid limit
+2025-06-01 15:35:31,146 ERROR Spotify API error: http status: 400, code: -1 - https://api.spotify.com/v1/me/top/artists?time_range=long_term&limit=100&offset=0:
+ Invalid limit, reason: None
+2025-06-01 15:35:36,594 ERROR HTTP Error for GET to https://api.spotify.com/v1/me/top/artists with Params: {'time_range': 'long_term', 'limit': 81, 'offset': 0} returned 400 due to Invalid limit
+2025-06-01 15:35:36,595 ERROR Spotify API error: http status: 400, code: -1 - https://api.spotify.com/v1/me/top/artists?time_range=long_term&limit=81&offset=0:
+ Invalid limit, reason: None
+2025-06-01 15:35:39,119 ERROR HTTP Error for GET to https://api.spotify.com/v1/me/top/artists with Params: {'time_range': 'long_term', 'limit': 64, 'offset': 0} returned 400 due to Invalid limit
+2025-06-01 15:35:39,119 ERROR Spotify API error: http status: 400, code: -1 - https://api.spotify.com/v1/me/top/artists?time_range=long_term&limit=64&offset=0:
+ Invalid limit, reason: None

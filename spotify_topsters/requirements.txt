@@ -1,0 +1,5 @@
+streamlit
+spotipy
+requests
+pillow
+python-dotenv
